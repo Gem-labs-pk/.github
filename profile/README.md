@@ -24,7 +24,7 @@
 
 **Gem Labs** is a software development initiative focused on building Progressive Web Apps (PWAs) and Python automation tools. We leverage open-source technology and AI-augmented workflows to rapidly prototype and deploy utilities for students, developers, and productivity seekers.
 
-* **Core Focus:** Web Development, Python Automation, and Cybersecurity.
+* **Core Focus:** Web Development.
 * **Philosophy:** Open Source, Minimalist, and User-Centric.
 
 ---
