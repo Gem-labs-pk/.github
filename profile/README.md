@@ -34,9 +34,6 @@
 | Project | Type | Status | Description |
 | :--- | :--- | :--- | :--- |
 | **[Splitify](https://github.com/Gem-labs/Splitify)** | 💸 Finance | **Active** | A smart personal finance tracker to manage expenses and split costs efficiently. |
-| **[Gem Store](https://github.com/Gem-labs/Gem-Store)** | 📱 Platform | **Beta** | A dedicated PWA App Store for distributing Gem Labs applications. |
-| **[Student Diary](https://github.com/Gem-labs/Student-Diary)** | 🎓 Productivity | **Stable** | A digital organizer tailored for university students. |
-
 ---
 
 ### 🛠️ Technology Stack
